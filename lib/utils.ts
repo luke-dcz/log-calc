@@ -1,1 +1,3 @@
-//Define any functions/tools that are used in multiple pages/components
+export function logarithm(x: number): number {
+  return Math.log2(x);
+}
